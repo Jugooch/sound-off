@@ -1,0 +1,8 @@
+{
+  "name": "SoundOff",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6aa62b10"
+}
