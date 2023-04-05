@@ -1,0 +1,66 @@
+ion-header{
+  font-size: 45px;
+  font-weight: 600;
+  text-align: center;
+}
+.profileHead {
+  height: 230px;
+}
+ion-img{
+width:150px;
+float:left; display:inline;
+}
+
+#ProfilePictureImg{
+  clip-path: circle();
+  max-width: 150px;
+  margin-left: 20px;
+
+}
+ion-item{
+padding-top: 75px;
+  width: 120px;
+  float:left; display:inline;
+
+}
+ion-label{
+text-align: center;
+}
+ion-card {
+  --background: #f1f1f1;
+  --color: #000;
+  max-width: 100px;
+  display: inline-block;
+}
+
+ion-card-title {
+  --color: #000;
+  font-size: 20px;
+}
+
+ion-card-subtitle {
+  --color: #000;
+  font-size: 8px;
+  font-weight: 200;
+}
+ion-button {
+  --color: #000;
+ align-content: center;
+ font-size: 15px;
+ box-shadow: none;
+ width:95%;
+ height: 30px;
+ background-color: #808080;
+ color: #fff;
+ border-radius: 25px;
+ box-shadow: 1px 1px 1px #b1b1b1,
+     -1px -1px 1px #fff;
+ letter-spacing: 1.3px;
+}
+#seeMore{
+  align-items:center
+}
+
+#editProfile{
+width: 150px;
+margin-top: 25px;}
