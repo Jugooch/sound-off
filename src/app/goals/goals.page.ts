@@ -7,6 +7,12 @@ import { Component } from '@angular/core';
 })
 export class GoalsPage {
 
-  constructor() {}
+  progress: number;
+  constructor() {
+    this.progress = 0;
+  }
 
+  setProgress(){
+    
+  }
 }

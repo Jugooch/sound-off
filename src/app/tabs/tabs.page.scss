@@ -1,1 +1,23 @@
+#navbar{
+  border-top:2px solid #073B4C;
+  height:80px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
 
+ion-tab-bar{
+  width:90%;
+  color: #073B4C;
+  background-color: white;
+  border:none;
+}
+
+ion-tab-button{
+  color: #073B4C;
+  background-color: white;
+}
+
+ion-tab-button ion-icon:hover{
+  color: #FFD166;
+}
